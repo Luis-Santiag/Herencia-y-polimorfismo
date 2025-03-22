@@ -36,7 +36,7 @@ namespace laboratorio_4.MisClases
             }
         }
 
-        // Método para apagar el camión
+        
         public void Apagar()
         {
             if (encendido)
